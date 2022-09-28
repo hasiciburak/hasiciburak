@@ -1,9 +1,18 @@
 # Hi there, I am Burak.
 
-#### Software Developer based in Istanbul/Turkey
-<img src="https://github-readme-stats.vercel.app/api?username=hasiciburak&show_icons=true&theme=radical"/>
+### Software Developer based in Istanbul/Turkey
+
+<br/>
+
+### Contact me in social media
+
+<div style="display: flex; gap: 20px; align-items: flex-start;">
+    <img src="https://github-readme-stats.vercel.app/api?username=hasiciburak&show_icons=true&theme=cobalt"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
+</div>
 
 ### Technologies that I am currently using
+
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
