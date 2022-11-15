@@ -1,8 +1,8 @@
-# Hi there, I am Burak and This is My Github Page.
+# Hi there, I am Burak and This is My Github Page 👋🏻👨🏻‍💻
 
 I am software engineer who is currently living in Istanbul/Turkey. I'm passionate about creating well-designed, great user-experienced technologies that affetcts people.  
 <br/>
-
+🙋🏻‍♂️
 ### Contact me in social media
 
 <div style="display: flex; gap: 20px; align-items: flex-start;">
