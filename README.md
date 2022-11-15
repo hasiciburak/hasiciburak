@@ -1,7 +1,6 @@
-# Hi there, I am Burak.
+# Hi there, I am Burak and This is My Github Page.
 
-### Software Developer based in Istanbul/Turkey
-
+I am software engineer who is currently living in Istanbul/Turkey. I'm passionate about creating well-designed, great user-experienced technologies that affetcts people.  
 <br/>
 
 ### Contact me in social media
