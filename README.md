@@ -1,6 +1,6 @@
 # Hi there, I am Burak and This is My Github Page 👋🏻👨🏻‍💻
 
-I am software engineer who is currently living in Istanbul/Turkey. I'm passionate about creating well-designed, great user-experienced technologies that affetcts people.  
+I am software engineer who is currently living in Istanbul/Turkey. I'm passionate about creating well-designed, great user-experienced technologies that affetcts people. Since my chilhood, I was passionate about computers and with university preperation school years, my passion has growed explonentially. I have experienced mobile application development, web development. You can find my projects on my Github profile!
 <br/>
 
 ### Contact me in social media
