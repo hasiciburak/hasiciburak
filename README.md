@@ -3,13 +3,6 @@
 I am software engineer currently lives in Istanbul/Turkey. I'm passionate about creating well-designed, great user-experienced technologies that affetcts people. Since my chilhood, I was passionate about computers and with university preperation school years, my passion has growed explonentially. I have experienced mobile application development, web development. You can find my projects on my Github profile!
 <br/>
 
-### Contact me in social media
-
-<div style="display: flex; gap: 20px; align-items: flex-start;">
-    <img src="https://github-readme-stats.vercel.app/api?username=hasiciburak&show_icons=true&theme=cobalt"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact">
-</div>
-
 ### Technologies that I am currently using
 
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
